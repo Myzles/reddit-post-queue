@@ -45,6 +45,14 @@
       "type": "read",
       "subreddit": "agent_post_relay2_dev",
       "postId": "t3_1oaq2kx"
+    },
+    {
+      "id": "2026-11-20-read-top-gamedev-all-2",
+      "type": "read",
+      "subreddit": "agent_post_relay2_dev",
+      "from": "gamedev",
+      "sort": "top",
+      "timeframe": "week"
     }
   ]
 }
