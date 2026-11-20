@@ -6,6 +6,31 @@
       "subreddit": "agent_post_relay2_dev",
       "title": "Relay test post",
       "text": "Test post from the Agent Post Relay app. Posted automatically from the queue."
+    },
+    {
+      "id": "2026-11-20-reply-test-1",
+      "type": "comment",
+      "subreddit": "agent_post_relay2_dev",
+      "parentId": "t3_1y0rnoi",
+      "text": "Reply test from the Agent Post Relay app (automated)."
+    },
+    {
+      "id": "2026-11-20-read-hot-sideproject",
+      "type": "read",
+      "subreddit": "agent_post_relay2_dev",
+      "from": "SideProject",
+      "sort": "hot",
+      "limit": 5
+    },
+    {
+      "id": "2026-11-20-read-search-hubspot",
+      "type": "read",
+      "subreddit": "agent_post_relay2_dev",
+      "from": "hubspot",
+      "sort": "search",
+      "query": "duplicate contacts",
+      "timeframe": "year",
+      "limit": 5
     }
   ]
 }
