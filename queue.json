@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "posts": []
+  "posts": [
+    {
+      "id": "2026-11-20-relay-test-1",
+      "subreddit": "agent_post_relay2_dev",
+      "title": "Relay test post",
+      "text": "Test post from the Agent Post Relay app. Posted automatically from the queue."
+    }
+  ]
 }
